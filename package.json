@@ -1,10 +1,13 @@
 {
   "name": "fahrenelsius",
-  "version": "1.0.0",
+  "version": "0.0.1",
   "description": "Convert degrees to Celsius or Fahrenheit",
-  "main": "index.js",
+  "main": "app.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "eslint ./app.js && eslint ./conversion.js"
+  },
+  "bin": {
+    "fahrenelsius": "./app.js"
   },
   "repository": {
     "type": "git",
@@ -22,5 +25,11 @@
   "bugs": {
     "url": "https://github.com/YuriBrunetto/fahrenelsius/issues"
   },
-  "homepage": "https://github.com/YuriBrunetto/fahrenelsius#readme"
+  "homepage": "https://github.com/YuriBrunetto/fahrenelsius#readme",
+  "dependencies": {
+    "yargs": "^10.0.3"
+  },
+  "devDependencies": {
+    "eslint": "^4.13.1"
+  }
 }
