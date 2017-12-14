@@ -1,0 +1,26 @@
+{
+  "name": "fahrenelsius",
+  "version": "1.0.0",
+  "description": "Convert degrees to Celsius or Fahrenheit",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/YuriBrunetto/fahrenelsius.git"
+  },
+  "keywords": [
+    "convert",
+    "fahrenheit",
+    "celsius",
+    "degrees",
+    "fahrenelsius"
+  ],
+  "author": "Yuri Brunetto <brunettoyuri@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/YuriBrunetto/fahrenelsius/issues"
+  },
+  "homepage": "https://github.com/YuriBrunetto/fahrenelsius#readme"
+}
