@@ -1,6 +1,6 @@
-function parseConvertedValue(value) {
-  return parseFloat(value).toFixed(1)
-}
+'use strict'
+
+let parseConvertedValue = (value) => parseFloat(value).toFixed(1)
 
 let toCelsius = (degrees) => {
   let celsius = (degrees - 32) * (5 / 9)
