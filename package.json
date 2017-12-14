@@ -31,5 +31,8 @@
   },
   "devDependencies": {
     "eslint": "^4.13.1"
+  },
+  "engines": {
+    "node" : ">=6.0.0"
   }
 }
