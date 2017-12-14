@@ -1,5 +1,5 @@
 function parseConvertedValue(value) {
-  return parseFloat(value).toFixed(1);
+  return parseFloat(value).toFixed(1)
 }
 
 let toCelsius = (degrees) => {
