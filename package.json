@@ -1,10 +1,11 @@
 {
   "name": "fahrenelsius",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "Convert degrees to Celsius or Fahrenheit",
   "main": "app.js",
   "scripts": {
-    "test": "eslint ./app.js && eslint ./conversion.js"
+    "test": "eslint ./app.js && eslint ./conversion.js",
+    "deploy": "git push && npm publish"
   },
   "bin": {
     "fahrenelsius": "./app.js"
