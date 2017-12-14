@@ -1,6 +1,6 @@
 {
   "name": "fahrenelsius",
-  "version": "0.0.1",
+  "version": "1.0.1",
   "description": "Convert degrees to Celsius or Fahrenheit",
   "main": "app.js",
   "scripts": {
