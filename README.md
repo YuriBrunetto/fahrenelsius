@@ -15,12 +15,12 @@ $ [sudo] npm install fahrenelsius -g
 You might require `sudo` to install it globally.
 
 ## Usage
-If you want to do *fahrenheit-to-celsius*, do:
+If you want to do *fahrenheit-to-celsius*
 ```bash
 $ fahrenelsius 81 -c 
 ```
 
-If you want to do *celsius-to-fahrenheit*, do:
+If you want to do *celsius-to-fahrenheit*
 ```bash
 $ fahrenelsius 35 -f 
 ```
