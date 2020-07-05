@@ -26,4 +26,4 @@ $ fahrenelsius 35 -f
 ```
 
 ## License
-MIT &copy; [Yuri Brunetto](https://ybrntt.com.br)
+MIT &copy; [Yuri Brunetto](https://yuribrunetto.com.br)
